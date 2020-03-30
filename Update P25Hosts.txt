@@ -9,3 +9,9 @@
 
 # 22200 IT HBLINK REFLECTOR
 22200 nxdn.hblink.it 41000
+
+# 32103 CW-Ops Academy
+32103 cwops.dyndns.org  41000
+
+# 33581 OMISS
+33581 omiss.dyndns.org  41000
